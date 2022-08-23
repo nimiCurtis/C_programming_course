@@ -1,4 +1,11 @@
+/*
+*Author: Nimrod Curtis
+*Purpose: this program printing my name
+*Date: 23.08.22
+*/
+
 #include <stdio.h>
+
 int main()
 {
     // printf display the string inside quot
@@ -6,3 +13,4 @@ int main()
     printf("\n");
     return 0;
 }
+
